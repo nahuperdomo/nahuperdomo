@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Contactame  </h3>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/nahuel-perdomo/)">Linkedin</a>
+<a href="https://www.linkedin.com/in/nahuel-perdomo/">Linkedin</a>
 <a href="https://www.instagram.com/adityavs_/">Instagram</a>
 <a href="mailto:nahuperdomo123@gmail.com">Mail</a>
 </p>
