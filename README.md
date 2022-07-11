@@ -39,8 +39,7 @@
 <h3> 🤝🏻 &nbsp;Contactame  </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/nahuel-perdomo/)"><</a>
-<a href="https://www.instagram.com/adityavs_/"></a>
-<a href="mailto:nahuperdomo123@gmail.com"></a>
+<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/nahuel-perdomo/)">Linkedin<</a>
+<a href="https://www.instagram.com/adityavs_/">Instagram</a>
+<a href="mailto:nahuperdomo123@gmail.com">Mail</a>
 </p>
