@@ -40,6 +40,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahuel-perdomo/">Linkedin</a>
-<a href="https://www.instagram.com/adityavs_/">Instagram</a>
+<a href="https://www.instagram.com/nahu.perdomo/">Instagram</a>
 <a href="mailto:nahuperdomo123@gmail.com">Mail</a>
 </p>
