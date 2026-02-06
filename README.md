@@ -1,70 +1,164 @@
-<h1 align="center">¡Hola! 👋 Soy Nahuel Perdomo</h1>
-<h3 align="center">Desarrollador Full-Stack apasionado por la tecnología, la innovación y el aprendizaje constante.</h3>
+<div align="center">
 
----
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Nahuel%20Perdomo&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-### 🌟 Sobre mí
+<br/>
 
-- 🔍 **Curioso por naturaleza:** Siempre busco aprender cosas nuevas, explorar tecnologías y mejorar mis habilidades.
-- 🎓 **Formación académica:** Estoy en el último año de la carrera de Tecnólogo en Informática en la [Universidad Tecnológica (UTEC)](https://utec.edu.uy/).
-- 💼 **Experiencia laboral:** Actualmente formo parte del equipo de **Credileads**, trabajando en soluciones innovadoras para el sector financiero. He pasado por roles en **Despegar**, **Pyxis**, y **Techie Talent**, adquiriendo experiencia en proyectos de alta escala.
-- 🌎 **Internacional:** Viví y trabajé en Nueva Zelanda durante un año, ganando experiencia cultural y profesional en entornos multiculturales.
-- 🚀 **Motivación:** Busco desafíos que me permitan crecer profesionalmente, colaborar con equipos creativos y aportar soluciones que generen impacto en el mundo digital.
+```
+⚡ IA aplicada a la optimización de negocios ⚡
+```
 
----
-
-### 🛠️ Tecnologías que manejo
-
-#### 💻 **Lenguajes de programación**
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
-
-#### 🌐 **Desarrollo web**
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-#### 🛢️ **Bases de datos**
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-
-#### ⚙️ **Herramientas y control de versiones**
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-#### 🔧 **IDEs y entornos de desarrollo**
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
----
-
-### 📚 Proyectos destacados
-- **[Despegar.com](https://github.com/nahuel/proyecto1):** Desarrollo de un nuevo producto enfocado en mejorar la experiencia del usuario en el sector de viajes. Tecnologías: Java, Spring Boot, Angular.
-- **[RápidoYFácil](https://github.com/nahuel/proyecto2):** Solución innovadora para optimizar procesos operativos en aplicaciones orientadas al cliente.
-- **[Telus](https://github.com/nahuel/proyecto1):** Desarrollo y pruebas automatizadas de un producto de telecomunicaciones. Tecnologías: Java, React.js, Selenium.
-- **[Tickantel](https://github.com/nahuel/proyecto1):** Participación en el sistema de gestión de entradas, optimizando su funcionalidad y garantizando su calidad.
-
----
-
-### 🤝 Contacto
-
-<p align="center">
-<a href="https://www.linkedin.com/in/nahuel-perdomo/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://www.instagram.com/nahu.perdomo/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram&logoColor=E4405F" />
-</a>
-<a href="mailto:nahuperdomo123@gmail.com" target="_blank">
-  <img alt="Mail" src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=D14836" />
-</a>
+<p>
+<a href="https://www.linkedin.com/in/nahuel-perdomo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://nahuel-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:nahuelperdomor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=tu-usuario-github&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Views"/>
 </p>
 
+</div>
+
 ---
 
+## 🧠 Sobre mí
+
+**Tecnólogo en Ingeniería Informática (UTEC)** con +4 años de experiencia como Software Developer. Actualmente en **Infuy** y **LAiB.ai**, cerrando la brecha entre la **Inteligencia Artificial** y las necesidades reales del negocio.
+
+Mi recorrido va desde proyectos para **Tickantel** (Pyxis) y **Despegar.com** (THESE), pasando por telecomunicaciones con clientes internacionales en **Credileads**, hasta mi foco actual: diseñar ecosistemas de **automatización con IA** que transforman procesos complejos en soluciones escalables.
+
+No solo escribo código — construyo herramientas que impactan directamente en la productividad.
+
+```typescript
+const nahuel = {
+    role: "Software Developer | AI & Automation Specialist",
+    company: ["Infuy", "LAiB.ai"],
+    location: "Uruguay 🇺🇾",
+    education: "Tecnólogo en Ingeniería Informática — UTEC",
+    languages: { spanish: "Native", english: "Full Professional" },
+    currentFocus: ["Agentes de IA", "Automatización con n8n", "LangChain", "LLMs"],
+    motto: "Automatizar lo complejo. Escalar lo inteligente."
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Databases, Testing & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Integrations
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🤖 Sistema de Entrevistas con Agentes de IA
+
+> **Problema:** Los procesos de reclutamiento técnico consumen cientos de horas-hombre en filtrado y entrevistas iniciales.
+
+> **Solución:** Sistema autónomo que utiliza agentes de IA para realizar entrevistas técnicas, evaluar candidatos en tiempo real y filtrar perfiles automáticamente.
+
+> **Resultado:** Reducción drástica del tiempo de screening, liberando al equipo de RRHH para enfocarse en decisiones estratégicas.
+
+`n8n` · `OpenAI/Claude API` · `Node.js`
+
+---
+
+### 💬 Automatización de Atención al Cliente — Rudy / Pronto!
+
+> **Problema:** La gestión manual de consultas sobre servicios y repuestos generaba cuellos de botella y tiempos de respuesta elevados.
+
+> **Solución:** Flujos de automatización con WhatsApp como canal principal, conectando bases de datos externas para respuestas inteligentes en tiempo real.
+
+> **Resultado:** Atención 24/7 con respuestas instantáneas, mejorando la experiencia del cliente y reduciendo la carga operativa.
+
+`n8n` · `WhatsApp Business API` · `PostgreSQL`
+
+---
+
+### ⚙️ Optimización del Flujo de Desarrollo con IA
+
+> **Problema:** Ciclos de desarrollo largos y revisiones de código que ralentizaban los deploys a producción.
+
+> **Solución:** Integración de herramientas de IA de última generación (Claude Code, agentes inteligentes) en el ciclo de vida completo del desarrollo.
+
+> **Resultado:** Tiempos de despliegue reducidos significativamente con mejora en la calidad del código en producción.
+
+`Claude Code` · `AI Agents` · `CI/CD`
+
+---
+
+## 💼 Trayectoria Profesional
+
+```
+2025 — Presente   ➤  Software Developer        @ Infuy / LAiB.ai
+2023 — 2024       ➤  Full-stack Developer       @ Credileads
+2022 — 2023       ➤  Full-stack Developer       @ Techie Talent
+2022              ➤  Junior Developer           @ THESE (Despegar.com)
+2022              ➤  Frontend Developer          @ Pyxis (Tickantel)
+2020 — 2022       ➤  Freelance Programmer       @ Prolesys Consultores
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 ¿Tenés un proceso que necesita ser automatizado?
+
+<a href="https://www.linkedin.com/in/nahuel-perdomo/">
+<img src="https://img.shields.io/badge/Hablemos_por_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contacto"/>
+</a>
+&nbsp;
+<a href="https://nahuel-portafolio.vercel.app/">
+<img src="https://img.shields.io/badge/Ver_mi_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
+
+</div>
