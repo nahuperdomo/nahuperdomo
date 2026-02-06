@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Nahuel%20Perdomo&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=220&amp;section=header&amp;text=Nahuel%20Perdomo&amp;fontSize=42&amp;fontColor=58a6ff&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&amp;descSize=18&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -10,10 +10,10 @@
 ```
 
 <p>
-<a href="https://www.linkedin.com/in/nahuel-perdomo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://nahuel-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:nahuelperdomor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=tu-usuario-github&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Views"/>
+<a href="https://www.linkedin.com/in/nahuel-perdomo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://nahuel-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:nahuelperdomor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=tu-usuario-github&amp;style=for-the-badge&amp;color=1f6feb&amp;label=PROFILE+VIEWS" alt="Views"/>
 </p>
 
 </div>
@@ -133,13 +133,13 @@ const nahuel = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1f6feb&amp;text_color=8b949e&amp;ring_color=1f6feb" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=1f6feb&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" width="49%" />
 
 </div>
 
@@ -150,15 +150,15 @@ const nahuel = {
 ### 💡 ¿Tenés un proceso que necesita ser automatizado?
 
 <a href="https://www.linkedin.com/in/nahuel-perdomo/">
-<img src="https://img.shields.io/badge/Hablemos_por_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contacto"/>
+<img src="https://img.shields.io/badge/Hablemos_por_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Contacto"/>
 </a>
 &nbsp;
 <a href="https://nahuel-portafolio.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_mi_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Ver_mi_Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
